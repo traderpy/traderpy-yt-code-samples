@@ -1,5 +1,5 @@
 # TraderPy - AlgoTrading Code Samples
-Code Samples for TraderPy Youtube Channel
+Code Samples for TraderPy Youtube Channel. In this reporsitory you will find code examples and tutorials focused on Python and Algorithmic Trading.
 
 Youtube: https://www.youtube.com/channel/UC9xYCyyR_G3LIuJ_LlTiEVQ/featured
 
